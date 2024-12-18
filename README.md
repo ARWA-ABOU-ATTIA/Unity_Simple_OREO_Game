@@ -1,5 +1,8 @@
 # Unity Simple OREO Game
 
+![Uploading image.png…]()
+
+
 **Project Description:**  
 A simple game built using Unity where the player controls a character to jump and avoid obstacles.  
 
