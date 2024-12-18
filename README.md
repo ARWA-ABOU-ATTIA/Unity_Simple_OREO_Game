@@ -1,6 +1,7 @@
 # Unity Simple OREO Game
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/02e3dea9-d4b8-4282-97d4-dc9c8def1c27)
+
 
 
 **Project Description:**  
